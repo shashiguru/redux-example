@@ -9,6 +9,7 @@ const Counter = ({props}) => {
     // const count = useSelector(state => state.counter);
     // const display = useSelector(state => state.dispaly);
     const dispatch= useDispatch();
+    //dummy change
     // const onButtonClick=type=>{
     //     switch(type){
     //         case 'increment':
