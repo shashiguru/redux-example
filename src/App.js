@@ -9,6 +9,7 @@ const mapStateToProps = (state)=>{
   }
 }
 
+// this is not needed
 function App(props) {
   
   return (
