@@ -10,6 +10,7 @@ const Counter = ({props}) => {
     // const display = useSelector(state => state.dispaly);
     //sync
     const dispatch= useDispatch();
+    //anpther cahnge
     //dummy change
     // const onButtonClick=type=>{
     //     switch(type){
