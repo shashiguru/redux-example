@@ -8,7 +8,10 @@ const Counter = ({props}) => {
     debugger;
     // const count = useSelector(state => state.counter);
     // const display = useSelector(state => state.dispaly);
+    //sync
     const dispatch= useDispatch();
+    //anpther cahnge
+    //dummy change
     // const onButtonClick=type=>{
     //     switch(type){
     //         case 'increment':
